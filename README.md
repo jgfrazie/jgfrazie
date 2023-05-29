@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Adversarial Genetic Programming**
 
-- 👯 I’m looking to collaborate on [HOLDER](HOLDER)
+- 👯 I’m looking to collaborate on [[PLACEHOLDER]](HOLDER)
 
-- 🤝 I’m looking for help with [HOLDER](HOLDER)
+- 🤝 I’m looking for help with [[PLACEHOLDER]](HOLDER)
 
 - 👨‍💻 All of my projects are available at [https://jgfrazie.github.io](https://jgfrazie.github.io)
 
