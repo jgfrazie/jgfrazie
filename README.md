@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [DriveGroups](https://mochiresearch.com/)
 
-- 🌱 I’m currently learning **Adversarial Genetic Programming**
+- 🌱 I’m currently learning **Accessability and Technology**
 
 - 👯 I’m looking to collaborate on [[PLACEHOLDER]](HOLDER)
 
@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on my [personal](https://jgfrazie.github.io) website and the official [MoCHI](http://mochiresearch.com/author/wchtr101/) lab's website
 
-- 💬 Ask me about the **Human-Driven Genetic Programming (HDGP) prototype** I assisted [Dr. Thomas Helmuth](https://scholar.google.com/citations?user=Z_nA0YoAAAAJ&hl=en) with
+- 💬 Ask me about the **Human-Driven Genetic Programming (HDGP) prototype** I assisted [Dr. Thomas Helmuth](https://scholar.google.com/citations?user=Z_nA0YoAAAAJ&hl=en) with and **Drive Groups** with the [MoCHI Lab](https://mochiresearch.com)
 
 - 📫 You can reach me at **james.frazier8093@gmail.com**
 
